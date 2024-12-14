@@ -1,5 +1,5 @@
 	--RELOAD GUI
-print("https://t.me/lordxsoft")
+print("https://t.me/DeltaScripts")
 if game.CoreGui:FindFirstChild("SysBroker") then
 	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "System Broken",Text = "GUI Already loaded, rejoin to re-execute",Duration = 5;})
 	return
@@ -3537,5 +3537,5 @@ game:GetService("UserInputService").InputBegan:Connect(function(input,gameProces
 end)
 
 SendNotify("ADDED CUSTOM ANIMATIONS by lordx - Telegram in your clipboard",10)
-setclipboard("https://t.me/lordxsoft")
+setclipboard("https://t.me/DeltaScripts")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/premium"))() -- load the premium
