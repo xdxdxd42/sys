@@ -975,7 +975,7 @@ WalkSpeed_Button.TextWrapped = true
 
 WalkSpeed_Input.Name = "WalkSpeed_Input"
 WalkSpeed_Input.Parent = Character_Section
-WalkSpeed_Input.BackgroundColor3 = Color3.fromRGB(0, 140, 140)
+WalkSpeed_Input.BackgroundColor3 = Color3.fromRGB(66, 0, 141)
 WalkSpeed_Input.BackgroundTransparency = 0.300
 WalkSpeed_Input.BorderColor3 = Color3.fromRGB(154 , 0, 255)
 WalkSpeed_Input.Position = UDim2.new(0, 210, 0, 25)
@@ -1005,7 +1005,7 @@ ClearCheckpoint_Button.TextWrapped = true
 
 JumpPower_Input.Name = "JumpPower_Input"
 JumpPower_Input.Parent = Character_Section
-JumpPower_Input.BackgroundColor3 = Color3.fromRGB(0, 140, 140)
+JumpPower_Input.BackgroundColor3 = Color3.fromRGB(66, 0, 141)
 JumpPower_Input.BackgroundTransparency = 0.300
 JumpPower_Input.BorderColor3 = Color3.fromRGB(154 , 0, 255)
 JumpPower_Input.Position = UDim2.new(0, 210, 0, 75)
