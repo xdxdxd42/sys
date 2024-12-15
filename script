@@ -4,7 +4,7 @@ if game.CoreGui:FindFirstChild("SysBroker") then
 	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "System Broken",Text = "GUI Already loaded, rejoin to re-execute",Duration = 5;})
 	return
 end
-local version = 3
+local version = 4
 --VARIABLES
 _G.AntiFlingToggled = false
 local Players = game:GetService("Players")
