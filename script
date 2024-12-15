@@ -715,7 +715,7 @@ TouchFling_Button.TextWrapped = true
 CMDBar.Name = "CMDBar"
 CMDBar.Parent = Game_Section
 CMDBar.AnchorPoint = Vector2.new(0.5, 0.5)
-CMDBar.BackgroundColor3 = Color3.fromRGB(0, 140, 140)
+CMDBar.BackgroundColor3 = Color3.fromRGB(66, 0, 141)
 CMDBar.BackgroundTransparency = 0.300
 CMDBar.BorderColor3 = Color3.fromRGB(154 , 0, 255)
 CMDBar.Position = UDim2.new(0.5, 0, 0, 350)
@@ -1131,7 +1131,7 @@ TargetImage.Image = "rbxassetid://10818605405"
 
 TargetName_Input.Name = "TargetName_Input"
 TargetName_Input.Parent = Target_Section
-TargetName_Input.BackgroundColor3 = Color3.fromRGB(0, 140, 140)
+TargetName_Input.BackgroundColor3 = Color3.fromRGB(66, 0, 141)
 TargetName_Input.BackgroundTransparency = 0.300
 TargetName_Input.BorderColor3 = Color3.fromRGB(154 , 0, 255)
 TargetName_Input.Position = UDim2.new(0, 150, 0, 30)
