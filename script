@@ -1080,7 +1080,7 @@ FlySpeed_Button.TextWrapped = true
 
 FlySpeed_Input.Name = "FlySpeed_Input"
 FlySpeed_Input.Parent = Character_Section
-FlySpeed_Input.BackgroundColor3 = Color3.fromRGB(0, 140, 140)
+FlySpeed_Input.BackgroundColor3 = Color3.fromRGB(66, 0, 141)
 FlySpeed_Input.BackgroundTransparency = 0.300
 FlySpeed_Input.BorderColor3 = Color3.fromRGB(154 , 0, 255)
 FlySpeed_Input.Position = UDim2.new(0, 210, 0, 125)
