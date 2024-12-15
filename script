@@ -3407,7 +3407,7 @@ Night_Button.MouseButton1Click:Connect(function()
 end)
 
 InfYield_Button.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+	loadstring(game:HttpGet('https://infyiff.github.io/resources/IY_FE.txt'))()
 end)
 
 CMDX_Button.MouseButton1Click:Connect(function()
@@ -3430,8 +3430,8 @@ end)
 FreeEmotes_Button.MouseButton1Click:Connect(function()
 	if not FreeEmotesEnabled then
 		FreeEmotesEnabled = true
-		SendNotify("System Broken","Loading free emotes.\nCredits: Gi#7331")
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/AllEmotes"))()
+		SendNotify("SusBroken","Loading jrkof!!.\nCredits: noname pastefy account")
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/xdxdxd42/sys/refs/heads/main/jerkof"))()
 	end
 end)
 
