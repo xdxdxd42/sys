@@ -1065,7 +1065,7 @@ Respawn_Button.TextWrapped = true
 
 FlySpeed_Button.Name = "FlySpeed_Button"
 FlySpeed_Button.Parent = Character_Section
-FlySpeed_Button.BackgroundColor3 = Color3.fromRGB(154 , 0, 255)
+FlySpeed_Button.BackgroundColor3 = Color3.fromRGB(154, 0, 255)
 FlySpeed_Button.BackgroundTransparency = 0.500
 FlySpeed_Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
 FlySpeed_Button.BorderSizePixel = 0
@@ -1080,9 +1080,9 @@ FlySpeed_Button.TextWrapped = true
 
 FlySpeed_Input.Name = "FlySpeed_Input"
 FlySpeed_Input.Parent = Character_Section
-FlySpeed_Input.BackgroundColor3 = Color3.fromRGB(0, 140, 140)
+FlySpeed_Input.BackgroundColor3 = Color3.fromRGB(66, 0, 141)
 FlySpeed_Input.BackgroundTransparency = 0.300
-FlySpeed_Input.BorderColor3 = Color3.fromRGB(154 , 0, 255)
+FlySpeed_Input.BorderColor3 = Color3.fromRGB(66, 0, 141)
 FlySpeed_Input.Position = UDim2.new(0, 210, 0, 125)
 FlySpeed_Input.Size = UDim2.new(0, 175, 0, 30)
 FlySpeed_Input.Font = Enum.Font.Gotham
@@ -1095,7 +1095,7 @@ FlySpeed_Input.TextWrapped = true
 
 Fly_Button.Name = "Fly_Button"
 Fly_Button.Parent = Character_Section
-Fly_Button.BackgroundColor3 = Color3.fromRGB(154 , 0, 255)
+Fly_Button.BackgroundColor3 = Color3.fromRGB(66, 0, 141)
 Fly_Button.BackgroundTransparency = 0.500
 Fly_Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Fly_Button.BorderSizePixel = 0
